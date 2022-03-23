@@ -1,0 +1,15 @@
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\Tugasprak3.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\Tugasprak3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\Tugasprak3.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\Tugasprak3.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\Tugasprak3.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\bin\Debug\net6.0\Tugasprak3.exe
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\bin\Debug\net6.0\Tugasprak3.deps.json
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\bin\Debug\net6.0\Tugasprak3.runtimeconfig.json
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\bin\Debug\net6.0\Tugasprak3.dll
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\bin\Debug\net6.0\Tugasprak3.pdb
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\Tugasprak3.dll
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\refint\Tugasprak3.dll
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\Tugasprak3.pdb
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\Tugasprak3.genruntimeconfig.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\Tugasprak3\obj\Debug\net6.0\ref\Tugasprak3.dll

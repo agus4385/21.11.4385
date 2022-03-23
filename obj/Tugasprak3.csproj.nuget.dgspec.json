@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\KULIAH\\SEMESTER 2\\PEMOGRAMAN\\21.11.4385\\Tugasprak3\\Tugasprak3.csproj": {}
+  },
+  "projects": {
+    "D:\\KULIAH\\SEMESTER 2\\PEMOGRAMAN\\21.11.4385\\Tugasprak3\\Tugasprak3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KULIAH\\SEMESTER 2\\PEMOGRAMAN\\21.11.4385\\Tugasprak3\\Tugasprak3.csproj",
+        "projectName": "Tugasprak3",
+        "projectPath": "D:\\KULIAH\\SEMESTER 2\\PEMOGRAMAN\\21.11.4385\\Tugasprak3\\Tugasprak3.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\KULIAH\\SEMESTER 2\\PEMOGRAMAN\\21.11.4385\\Tugasprak3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
